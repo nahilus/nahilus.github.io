@@ -365,7 +365,7 @@ function qm_start() {
    }, 2000) //every 2 seconds update opm (operations per min)
 
    OperationResult.addEventListener("keypress", function(event) {
-      if (event.key === "Enter") {
+      if (event.key === " ") {
          console.log("result",OperationResult.value)
          console.log("correct",correct_result)
          if (OperationResult.value == correct_result) {
