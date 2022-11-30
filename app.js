@@ -359,7 +359,7 @@ function qm_start() {
    correct_result = Math.round(operators[operator](rand_1, rand_2));
    console.log(correct_result)
    let operations_per_min = setInterval(function(){
-      time_elapsed += 2/60;
+      time_elapsed += 0.5/60;
       console.log("hi")
       CalcSpeed.innerText = String(Math.round(correct_operations/time_elapsed *10)/10 + " opm");
    }, 500) //every 2 seconds update opm (operations per min)
