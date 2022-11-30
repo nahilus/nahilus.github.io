@@ -364,8 +364,8 @@ function qm_start() {
       CalcSpeed.innerText = String(Math.round(correct_operations/time_elapsed *10)/10 + " opm");
    }, 2000) //every 2 seconds update opm (operations per min)
 
-   OperationResult.addEventListener("keyup", function(event) {
-      if (event.key === " ") {
+   OperationResult.addEventListener("keydown", function(event) {
+      if (event.key === "Enter") {
          console.log("result",OperationResult.value)
          console.log("correct",correct_result)
          if (OperationResult.value == correct_result) {
