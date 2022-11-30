@@ -1,0 +1,621 @@
+Investigation - geography
+
+   process
+   
+         • Sampling methods
+         Selecting a specific group of individuals from a larger population to collect data from to represent the general population. Research has more feasibility + lower cost, avoids bias, samples according to a factor (age, gender etc). 50-200 sample size.    
+            • Random sampling
+                  • selecting respondents: randomised sample from a complete list of identified members within a group (eg. population)
+                  • select respondents according to the sample
+                  • if respondent rejects, move on to the next respondent on the list
+                  + Each member of the group has an equal chance of being selected and thus avoids bias
+                  - unsuitable for very large groups as hard to identify every member
+            
+            • Stratified sampling
+                  • selecting respondents: every person that passes by from a stratum (category) (eg. age group/social background/race)
+                  • stand at a fixed position and select respondents accordingly
+                  • reject respondent if not within stratum
+                  + accurate data as evidence as no irrelevant data is collected
+                  - hard to identify people within the specified stratum
+            
+            • Systematic sampling
+                  • selecting respondent: every 3rd person that passes by/ every 3 min
+                  • stand at a fixed position and select respondents accordingly
+                  • if the respondent rejects, restart from step 1
+            
+            
+         • Research question   
+            • Guiding question
+            Example: What types of tourism would the Pei Hwa family want to experience once travels are allowed after the pandemic? 
+            • Hypothesis
+            Example: Once travels are allowed, the Pei Hwa family would want to experience Honeypot tourism and Dark tourism the most
+            
+         • Data collection   
+            • Primary data
+            Data collected first-hand through fieldwork. Modes of collection: surveys, observations, experiments, questionnaires, personal interviews. Unnecessary questions should be omitted from questionnaires.
+            • Secondary data
+            Data that have already been collected, compiled and/or published by others for other purposes. Mode of collection: searching online 
+            
+         • Data representation   
+            • Line graph
+                  • relationship/trend of continuous data (increasing or decreasing against time)
+                  • could be used to estimate future patterns
+                  • comparative line graphs compare more than one dependent variable to one independent variable to compare the trend of two data sets
+                  • simple line graphs compare one dependent variable to one independent variable
+                  • dependent variable y-axis, independent x-axis
+            
+            • Bar graphs
+                  • patterns of categorical data (more or less)
+                  • simple bar graphs 
+                  • comparative bar graphs compare two or more data sets per category
+                  • compound bar graphs subdivide data in a category (eg. age groups)
+            
+            • Pie charts
+                  • patterns of categorical data
+                  • easy to interpret
+                  • size of sectors determined by percentage of data
+            
+         
+         • Concluding whether data supports hypothesis
+         Describe format
+               • overall trend (supported or refuted)
+               • noteworthy examples (supports trend)
+               • exceptions
+         
+         • Concluding whether data is valid
+         The geographical process is evaluated to determine the reliability and accuracy of the data to conclude its validity. Cannot correct the experiment for when the question asks "how can the experiment be improved?" if the fault is not explicitly stated.   
+               • Accuracy
+                     • how true to the actual value
+                  • affected by equipment and method used for data collection
+               • Reliability
+                     • extent to which the data can be reproduced 
+                     • affected by location (not representative of the entire area)
+                     • affected by time (particular weather condition or event at that time only)
+            
+   
+
+
+
+Plate Tec. - geography
+   
+         • Natural hazard
+         
+         • Internal structure of the earth
+               
+            • Crust
+            Outermost layer   
+                  • oceanic crust: located deep beneath oceans, mainly basalt, less than 200 million years old, 5-8 km thick
+                  • continental crust: beneath shallow water and continental land masses, light rocks (granite), vary widely in age from very recent to 4 billion years old, 30-70km thick
+            
+            • Mantle
+            mostly solid rock that flow under high temp and pressure, 2900km thick, 800-3000°C
+            • Core
+            3500km, iron and nickel, 3000-5000°C   
+                  • outer: 2100km thick, liquid iron and nickel
+                  • 1400km thick, solid iron and nickel because of extreme pressure from surrounding layers
+            
+            
+      
+   movement
+   
+         • Reasons for movement   
+               • Convection currents
+               material in the mantle is heated by core → expands and rises → spreads out beneath the plates → drags plates along → cools and sinks → pulls plates along → sinking material heats up and process repeats
+               • Slab-pull force
+               dense, sinking oceanic plate pulls the rest of the plate behind it
+               
+         • OC-OC divergence
+         two plates diverge → tensional forces → fractures at plate boundary → mid-oceanic ridge
+         eg. North American plate and European plate diverge to form the mid-atlantic ridge and volcanic islands, Azores.   
+               • Seafloor spreading
+               plates further diverge → magma rises through cracks then cools and solidifies → repeat → new ocean floor
+               • Volcanic islands
+               magma erupts along the mid-oceanic ridge → cools and solidifies → undersea volcanoes → continue to grow until above sea level
+            
+         • CC-CC divergence
+         two plates diverge → stretched → tensional forces → fracture in rocks → faults → faultingeg. African plates, Nubian and Somalian diverges to form the East African Rift System   
+               • Rift valley
+               central block of land subside btwn pair of parallel faults → rift valley
+               • Block mountains
+               land masses surrounding block of land subside → block mtn form btwn pair of parallel faults
+            
+         • OC-OC convergence
+         two plates converge and collide → compressional forces → denser plate subduct beneath less dense plate → deep oceanic trench at point of subduction
+         eg. Pacific and Philippines plate converge to form the Mariana Islands   
+               • Volcanoes
+               friction → mantle material above melt → magma → rise through cracks cools and solidifies → undersea volcanoes >> chain or arc of islands
+               • Earthquakes
+               friction between moving rock masses when plate subduct under another → earthquake occur at boundary between two plates
+            
+         • CC-CC convergence
+         two plates converge and collide → compressional forces where crust compressed → immense pressure
+         eg. Indian and Eurasian plate colliding to form the Himalayas   
+               • Range of fold mountains
+               too thick and buoyant → resist subduction → rocks buckle and fold → massive folding upward or sideways → fold mtns
+            
+         • OC-CC convergence
+         oc plate converge cc plate → compressional forces → denser oc subducts beneath less dense cc → deep oceanic trench at point of subduction
+         eg. Australian plate subducts under Eurasian plate, forming the Sunda Trench and Barisan Mountains   
+               • Volcanoes
+               friction → mantle material above melt → magma → rise through cracks cools and solidifies
+               • Earthquakes
+               friction between moving rock masses when plate subduct under another → earthquake occur at boundary between two plates
+               • Fold mountains
+               CC too thick and buoyant → resist subduction → rocks buckle and fold → massive folding upward or sideways → fold mtns
+            
+         • Transform plate boundaries
+         plate slide past each other along transform plate boundary → formation of transform fault → tremendous stress build up at fault   
+               • Earthquakes
+               stress eventually released when can no longer withstand → earthquake
+            
+   
+   volcanoes
+   
+         • Shield volcanoes
+               • occurs on divergent plate boundaries
+               • broad summit & gently sloping sides: lava flows easily → over longer distance → cools and solidifies → form thin crust → base increases in size over successive eruptions → volcano with gently sloping sides
+               • less explosive: gas escape easier → less explosive volcanic eruptions
+               • low-silica → low viscosity
+               • eg. Mount Washington, USA
+         
+         • Stratovolcanoes
+               • occurs on convergent (oceanic) plate boundary
+               • narrow summit & steep sloping sides: lava flows shorter distance → cools and solidifies → thicker crust over successive eruptions → tall volcano, narrow summit
+               • very explosive: traps gases more easily → build-up of pressure below earth's surface → magma rises to surface → gas expand → explosion 
+               • high-silica → high viscosity
+               • caldera: summit blown off → sides of crater collapse inward due to loss of structural support
+               • eg. Mount Vesuvius, Italy
+            
+         • Volcanic eruptions
+               • magma seeps into the magma chamber, pressure in chamber builds up, volcanic eruption
+               • pyroclasts released from eruption, force depends on pressure built up
+               • lava builds up around the vent, solidifying to form a small volcanic cone called the crater
+               • during formation of volcano, vent may become blocked, forcing magma to find a new exit route to the surface, developing a secondary cone of newer volcanic material
+            
+         • Impacts of living in volcanic areas   
+         + Fertile soil
+            lava and ash from volcanic eruptions break down → fertile volcanic soils → agriculture (minerals only after the rocks weathered and broken down for thousands of years)
+            eg. volcanic soils of Java, Indonesia support cultivation of various crops like coffee
+            
+         + Precious stones and minerals
+            volcanic rocks rich in precious stones (can extract after millions of years when rocks erode)
+            eg. Volcanic rocks at Kimberly, South Africa one of the world's richest sources of diamond
+            
+         + Tourism
+            variety of activities for tourists → hiking, camping / rich in history
+            eg.  3 million people visit the ruins of Pompei, Italy after volcanic eruption in 79CE as rich in history
+            
+         + Geothermal energy
+            heat in earth's crust in form of hot rocks beneath the surface heats water up → erupts as steam for turbines
+            eg. over 70% of homes in Iceland heated by volcanic steam
+            
+         - Destruction and pollution by volcanic materials
+               • volcanic bombs of heated rocks → fall in surrounding areas → damage to property
+            eg. Eruption of Kilauea Hawaii 1983 destroyed many homes and highwaysMassive destruction by volcanic materials
+               • lava and hot ash → (low-silica) moves rapidly, flows over long distances → damage to large areas
+            eg. Eruption of Mt. Pinatubo 1991 emitted 10 million tonnes of lava and 20 million tonnes of sulfur dioxide
+               • landslides → structural collapse of volcanic cone during eruption → obstruct flow of rivers, bury villages and farmland
+               • ash particles ejected during a volcanic eruption →  block sunlight, suffocate crops, cause respiratory problems for people and animals
+         
+         
+   
+   earthquakes
+   
+         • Earthquake
+         friction between moving plates → slow build-up of stress on rocks along fault line → sudden release of energy when can no longer withstand stress → crust slip many meters
+         energy is released in the form of seismic waves from the focus
+         stress may cause aftershocks months after the earthquake which may be as powerful
+         Epicentre is the point on the surface above the focus
+         
+         • Richter scale
+         measures magnitude of earthquake, 1 increment = 10 times greater magnitude of impact   
+            • 1.0-2.0: not felt by people but detected by seismograph; described as tremor
+            • 2.1-3.0: felt by few people near the epicentre; described as tremor
+            • 3.1-4.0: little damage to structures; hanging objects swing
+            • 4.1-5.0: minor damage including cracks in walls; felt by many people
+            • 5.1-6.0: damage poorly constructed buildings; difficult to walk
+            • 6.1-7.0: many structures collapse, cracks in ground; difficult to stand
+            • 7.1-8.0: severe damage, most buildings collapse
+            • 8.1-9.0: destruction over wide area; landslides common
+            • >9.0: destruction over thousands(?) of kilometers of land
+         
+         • Extent of damage   
+            • Magnitude of earthquake
+            Stronger tremors and wider destruction when higher magnitude
+            eg. Haiti, 2010 7.0 magnitude earthquake had a death toll of more than 300 000 people.
+            
+            • Population density
+            Number of people living in affected area: affect fewer people in sparsely than densely populated areas
+            
+            • Level of preparedness
+            Amount of preparation, eg. evacuation plans and rescue workers, taken by the authorities and citizens: earthquake is more manageable when prepared
+            eg. Tohoku, Japan 2011 9.0 magnitude earthquake in  had a death toll of 28 000 people.
+            eg. Haiti, 2010 7.0 magnitude earthquake had a death toll of more than 300 000 people. (lack of preparedness)
+            
+            • Distance from epicentre
+            More severe damage when closer to epicentre
+            eg. Christchurch, New Zealand, 2011, the earthquake epicentre was in a town a few km away from the city centre, which suffered more damage than areas further.
+            
+            • Time of occurrence
+            Time of day an earthquake occurs: determines what people are doing and where they are, affecting chances of survival
+            eg. 2400 people died when an earthquake occurred a couple hours after midnight in the Sun Moon Lake Region, Taiwan 1999 → people are sleeping, higher chance of being trapped in house.
+            
+            • Type of soil
+            Where sediments are loose and unconsolidated, seismic waves are amplified → greater damage when earthquakes occur
+            Structures on saturated and unconsolidated sediments can be affected by liquefaction when saturated soil flows like liquid
+            eg. Christchurch 2011, many houses and buildings had to be abandoned due to liquefaction.
+            
+            
+         • Hazards   
+            • Tsunami
+            seismic energy from offshore earthquake → forces out a mass of seawater → waves start at height less than 1m, with wavelengths of 100 to 150km at 800km/h → may pass undetected
+            reach shallow water → greater friction → slow waves, increase in height → at point of impact, tsunami waves travelling at 30 to 50 km/h and reach height 15m
+            (sea recedes minutes before tsunami reaches shore as water rushes to fill in void caused by movement of sea floor)
+            
+            • Landslide
+            The rapid downslope movements of soil, rock and vegetation debris.
+            ground shaken during earthquake → weaken the slopes of mountains → become unstable
+            eg. 1970, earthquake in Peru caused landslide on Mount Huascarán, flattening the town of Ranrahirca within seconds
+            
+         
+         • Impacts   
+            • Disruption of services
+            vibrations on the ground → snap pipes and break cables services → disrupts supply of electricity, gas and water; may cause outbreak of fires; affects communication services, eg. television broadcasts and telephone connections
+            eg. Earthquake in Kobe, Japan, in 1995 damaged pipes and transmission lines, disrupting electricity, gas and water supplies to 1of 1.4 million residents.
+            
+            • Destruction of property
+            widespread destruction of many homes → people may be without homes and have to reside at temporary shelters while their homes are being rebuilt
+            eg. Earthquake in Tōhoku, Japan, in 2011 caused a large tsunami which resulted in 155000 homes lost.
+            
+            • Destruction of infrastructure
+            cracks in infrastructure like roads and bridges → unsafe → disrupts transportation
+            eg. After earthquake in Kobe, Japan, in 1995, many places in the city became difficult to reach.
+            
+            • Loss of lives
+            Earthquakes and their hazards threaten the lives of those living in earthquake zones
+            eg. Earthquake in Tōhoku, Japan, in 2011 resulted in 28000 deaths.
+            
+         
+   
+   responses to earthquakes
+   
+         • Preparedness measures   
+         • Land use regulation
+         Set of rules implemented to restrict development in certain vulnerable areas
+         eg. California, USA, all new building develpoments are not built across fault lines or areas at risk of liquefaction.
+            + buildings less vulnerable to collapse → less damage → reduce economic loss
+            - expensive and may not always work
+               eg. Japan's anti-tsunami seawalls were not very effective against the large tsunami waves created by the Tohoku earthquake, 2011. 
+         
+         • Infrastructure
+         Developed with advanced engineering to withstand the vibration associated with an earthquake
+         eg. Taipei 101 has dampening devices which act as shock absorbers for seismic activity during earthqukes. Wide base which reduces risk of collapse.
+            + buildings less vulnerable to collapse → less damage → reduce economic loss
+            - expensive
+            eg. Dampening device in Taipei 101 cost US$4 million.
+         
+         • Emergency drills
+         People practice the steps to take when an earthquake occurs
+         eg. Since 1960, Japan conducts emergency drills on Sep 1 for Disaster Prevention Day, during which an earthquake of high magnitude is simulated.
+            + awareness of proper response procedures → reduce loss of lives
+            - based on the most serious earthquake recorded in the country → not prepared for stronger earthquakes
+            eg. Emergency drills did not sufficiently prepare people for earthquake in Tohoku, 2011 as it was more severe than any previous earthquakes in Japan. 
+         
+         • Earthquake monitoring and warning systems
+         Earthquake sensors in earthquake prone zones to monitor vibrations, linked to warning systems to warn people of impending tremors and its severity (duration, frequency, magnitude and location).
+            + warned prior to earthquake → evacuate → reduce loss of lives
+            eg. Jiuzhaigou, Sichuan, China, earthquake warning systems warned residents 19-40 seconds ahead of the tremors through broadcasting and mobile applications.
+            - too severe for warning to have significant impact
+            eg. Early warnings for Tohoku, 2011 earthquake were unable to prepare against 30m high tsunami waves which were too big.  
+         
+         • Tsunami monitoring and warning systems
+         Pressure sensors in the water monitor pressure and temperature, linked to warning systems to warn people of incoming tsunamis and its severity.
+            + warned prior to earthquake → evacuate → reduce loss of lives
+         eg. Banda Aceh, Indonesia, 2012, tsunami warning systems released alerts when a magnitude 8.6 earthquake occurred in Northern Indonesia, depolying authorities which helped move people away from the coastline successfully.
+            - false alarms → wrongly predict severity
+            eg. A tsunami warning for Tohoku, 2011 earthquake was issued for a wave of 3m, but the actual were higher. 
+         
+         
+         • Short-term responses   
+            • Search and rescue
+            People trapped under collapsed buildings are quickly located and freed
+            eg. After Tohoku, 2011 earthquake, sniffer dogs and heat sensors were used to rescue many who were trapped in 2 towns.
+               + victims are rescued → reduce loss of lives
+               - limited time of 72 hours before trapped victims die without food and water
+               eg.  After the Tohoku, 2011 earthquake, rescue workers only had 3 days to search through 2 towns.  
+            
+            • Emergency, food and medical supplies
+            The injured are treated and clean drinking water is provided to precent dehydration and spread of diseases.
+            eg. After Haiti, 2010 earthquake, UN World Food Programme, international aid agencies and the Haitian government worked together to distribute food coupons, allowing redeption of a 25kg bag of rice.
+               + victims are nurtured back to health → reduce loss of lives
+               - violence and looting when supplies are not sufficient
+               eg. After Haiti, 2010 earthquake, violence and looting broke out as people fought for food and medical supplies. 
+            
+         
+         • Long-term responses   
+            • Rebuilding of infrastructure
+            Infrastructure and amenities are rebuilt and improved upon after a disaster.
+               + prevent buildings from collapsing for future earthquakes → less damage → reduce economic losses
+            eg. After Kobe, Japan, 1985 earthquake, Japan spent billions developing technology for earthquake resistant buildings.
+               - earthquake-resistant buildings require additional structures to protect against tsunamis
+                  eg. Tsunami by Chilean, 2010 earthquake damaged earthquake resistant buildings in coastal areas. 
+            
+            • Provision of healthcare
+            Recovery options such as healthcare and long-term counselling are provided as the loss of loved ones, homes or jobs after an earthquake cause long-lasting trauma.
+               + problems are identified and addressed early → efficient recovery
+            eg. After 2011 Christchurch, New Zealand earthquake, problems of anxiety and depression were identified and more health workers were deployed to the area.
+               - insufficient medical workers, facilities and funds → challenging to establish services
+                  eg. After Haiti, 2010 earthquake, many survivors continue to lack basic necessities. 
+            
+         
+   
+
+
+
+W&C - geography
+
+   
+   
+         • Weather
+         Short term atmospheric conditions. 
+         • Climate
+            • Equatorial climate
+               • 10 degrees north and south of the equator
+               • High mean annual temperature: 27°C
+               • Small annual temperature range: 2°C
+               • High annual rainfall: over 2000mm
+               • High relative humidity: over 80%
+               • Convectional rain due to high temperatures
+               • No distinct wet or dry seasons
+         
+            • Monsoon climate
+               • Between 5 to 25 degrees north and south of the equator
+               • High mean annual temperature but lower than equatorial climate(due to concentrated rainfall (from monsoons) during summer which lowers the temperature)
+               • High mean monthly temperature before start of wet season: 28°C
+               • High mean monthly temperature after start of wet season: 26°C
+               • Small annual temperature range of 3 to 4°C
+               • Distinct wet and dry seasons
+               • High rainfall during wet season: av. 2000mm
+               • Much lower rainfall during dry season: 750mm
+         
+            • Cool temperate climate
+               • Between 40 to 60 degrees north and south of the equator
+               • 4 distinct seasons. Due to tilt of the earth and revolution around the sun
+               • Mild winters, cool summers
+               • High annual temperature range: 21°C, between -3 and 18°C
+               • No distinct wet or dry seasons
+               • Relatively low annual rainfall: between 300mm and 900mm
+         
+         
+   temperature
+   
+         • Measurements
+               • Mean daily temperature: 
+               • Diurnal temperature range: clouds cover
+               • Mean monthly temperature: 
+               • Mean annual temperature: 
+               • Annual temperature range: latitude, distance from sea
+         
+      
+         • Influences   
+            • Latitude
+            Distance in degrees of any point on the earth measured north or south from the equator, shown by horizontal lines, eg. equatorial line is at 0°; 1°22'N 1 degree and 22 minutes north of the equator.
+            Affects annual temperature range
+            Most important factor affecting temperature
+            Solar angle is the angle between the tangent and the sun's ray at the point of incidence
+            Temperature changes   
+                  • higher latitudes: solar angle is lower → solar energy spread out over a larger area → lower annual temp range
+                  • lower latitudes: solar angle is high → heat from the sun is concentrated on a small area → higher annual temp range
+                  • certain tilt of the earth → north pole completely exposed & south pole completely shielded from the sun's rays → months of sunlight (summer) in northern hemisphere & months of darkness (winter) in southern hemisphere
+            
+            • Altitude
+               Height of a place in relation to sea level.
+               6.5°C decrease per 1000m increase in altitude (atmosphere is mostly heated by the earth's surface)
+               solar energy enters atmosphere as shortwave radiation & reaches earth's surface → warm surface emits heat as longwave radiation → absorbed by greenhouse gases → warms the atmosphere (greenhouse effect)
+               increasing altitude → further from surface → less longwave radiation → decreasing temperature
+            
+            • Cloud cover
+            Presence of clouds: small diurnal temperature range   
+                  • day: clouds reflect large amount of solar radiation back to space & absorbs surface radiation → cooler surface
+                  • night: clouds absorb more surface radiation & prevents it from escaping into space → warmer surface
+            Absence of clouds: higher diurnal temperature range   
+                  • day: large amount of solar radiation reach the surface → surface heats up fast → warmer surface
+                  • night: more surface radiation escapes into space → cooler surface
+            
+            • Distance from the sea
+            Coastal areas smaller annual temperature range than inland areas.
+            Maritime effect: effect of sea on temperature   
+                  • summer: <b>sea heats up slower</b> → air over sea cooler than land → <b>temperature of coastal areas lower than land</b>
+                  • winter: <b>sea cools down slower</b> → air over sea warmer than land → <b>temperature of coastal areas higher than land</b>
+            Continental effect: effect of land on temperature   
+                  • inland areas are further from the sea → temperatures are not influenced by the sea → inland areas experience warmer summers and colder winters → larger annual temperature range on land
+            
+         
+         
+      
+   
+   rainfall
+   
+         • Relative humidity
+         total/maximum moisture * 100%
+         <b>warmer</b> → amount of water vapour stays the same & air expands → able to hold more water → <b>lower RH</b>
+         saturated air: 
+            • holds the maximum amount of water
+            • relative humidity is 100%
+            • occurs at dew point temperature
+            • condensation occurs
+         
+         • Clouds
+         Visible mass of water droplets or ice crystals that are suspended in the atmosphere.
+               • earth's surface heats up
+            • liquid water evaporates to form water vapour
+            • water vapour (less dense than air) rises and warm air expands and rises
+            • higher up the atmosphere, air is cooler
+            • at dew point temperature, air is saturated and vapour condenses into droplets on tiny particles like dust called the condensation nuclei
+            • droplets coalesce and become larger to form clouds
+            
+         • Convectional rain
+         intense rain, lightning and thunder, short time
+               • earth's surface heated intensely
+            • liquid water evaporates to form water vapour
+            • water vapour (less dense than air) rises and warm air expands and rises
+            • higher up the atmosphere, air is cooler
+            • at dew point temperature, air is saturated and vapour condenses to form cumulonimbus clouds
+            • when water droplets become large and heavy enough, they fall to the ground as rain
+         
+         • Relief rain
+               • prevailing wind forces warm, moist air to rise over the windward side of a landform such as a mountain range
+            • higher up the atmosphere, air is cooler
+            • at dew point temperature, vapour condenses to form clouds
+            • when water droplets in the clouds become large and heavy enough, they fall to the ground as rain on the windward side as the clouds move to the leeward side
+            • when the clouds reach the leeward side, no rain falls and air is dry
+         
+   
+   air
+   
+         • Air pressure
+         The force exerted on a unit area of earth's surface by the weight of the air column above it.
+         <b>Decreases as altitude increases</b>
+         <b>Decreases as temperature increases</b>
+      
+         • Wind
+         Movement of air from an area with high pressure to low pressure.
+         Pressure gradient: difference in pressure between two locations<b>Higher pressure gradient, higher wind speed.</b>
+         Components   
+            • speed (anemometer) represented with beaufort scale
+            • direction (wind vane)
+            • frequency (wind rose)
+      
+         • Breezes   
+            • Land
+            Land loses heat and cools down faster than water bodies at night.
+            Land (higher air pressure) to sea (lower air pressure)
+         
+            • Sea
+            Land gains heat and heats up faster than water bodies at night.
+            Sea (higher air pressure) to land (lower air pressure)
+            
+         • Monsoon winds   
+            • Southwest
+            between <b>June and September</b>,
+            (summer in the <b>northern</b> hemisphere) air over <b>Central Asia</b> heats up, expands and rises → region of low pressure
+            (winter in <b>southern</b> hemisphere) air over <b>Australia</b> cools, shrinks and sinks → region of high pressure
+            air from <b>Australia</b> moves to the <b>Indian sub-continent and Central Asia</b> as the <b>southeast ⬉</b> monsoon winds → cross the equator, Coriolis Effect deflects winds to the <b>right</b> → <b>southwest ⬈</b> monsoon winds
+            • Northeast
+            between <b>October and February</b>,
+            (summer in the <b>southern</b> hemisphere) air over <b>Australia</b> heats up, expands and rises → region of low pressure
+            (winter in <b>northern</b> hemisphere) air over <b>Central Asia and the Indian Subcotinent</b> cool, shrinks and sinks → forming a region of high pressure
+            air from <b>Central Asia and Indian sub-continent</b> moves to <b>Australia</b> as the <b>northwest ⬊</b> monsoon winds → cross the Equator, Coriolis Effect deflects winds to the <b>left</b> → <b>northeast ⬋</b> monsoon winds.
+            
+   
+   climate change
+   
+         • Greenhouse effect
+         greenhouse effect: natural greenhouse gases trap heat in the atmosphere which keeps earth's surface warm to sustain life.
+         enhanced greenhouse effect: human activities increase concentration of greenhouse gases → traps more heat → increased temperatures 
+         solar energy enters atmosphere as shortwave radiation → some is reflected but most is absorbed by earth's surface → warm surface emits heat as longwave radiation → absorbed by greenhouse gases → warms the atmosphere (greenhouse effect)
+         
+         • Natural causes   
+            • Variations in solar output
+            sunspots: dark spots, cooler regions of sun's surface
+            changes in magnetic activity → sunspots increase with intense solar magnetic activity → areas surrounding sunspots radiate more energy to make up for lower temperatures of sunspot areas → global temperatures rise → variations in annual temperatures
+            
+            • Volcanic eruptions
+            volcanic eruption releases large volume of carbon dioxide, water, sulfur dioxide, dust and ash → sulfur dioxide reacts with water to form sulfuric acid → sulfur-based particles, water, dust and ash reflect sunlight → cooling effect
+            eg. eruption of Mt Pinatubo in 1991 released 17 million tonnes of sulfur dioxide and lowered global temperatures for 2 years. 
+            
+            
+         • Anthropogenic causes   
+            • Deforestation
+            removal of trees → fewer trees to take in carbon dioxide during photosyntheis → higher concentration of carbon dioxide (greenhouse gas) → enhanced greenhouse effect (trap more heat) → global warming
+            eg. Between 2010 and 2015, 52000km<sup>2</sup> of rainforest was lost every year.
+            
+            • Agriculturalisation
+            cultivation of livestock and plants → emission of methane from livestock, nitrous oxide from fertilizer & carbon dioxide (greenhouse gas) → enhanced greenhouse effect → global warming
+            eg. Argentina, methane from cows accounts for 30% of the country's greenhouse gas emissions.
+            
+            • Industrialisation
+            production of goods and services → consumption of fossil fuels → emission of carbon dioxide (greenhouse gas) → enhanced greenhouse effect → global warming
+            eg. Manufacturing a mobile phone releases 60kg of CO2 while manufacturing a computer and a monitor releases 275kg of CO2.
+            
+            • Urbanisation
+            development & population of urban areas → increase in agricultural, industrial, commercial and domestic practices → higher emission of greenhouse gases → enhanced greenhouse effect → global warming
+            
+            
+         • Impacts   
+            • Sea level rise
+            The mean height of the sea's surface between high tide and low tide relative to land
+            higher temperature → melting of glaciers in Greenland and Antarctica & water in sea expand → rise in sea level
+            threaten low-lying areas where people live
+            eg. Majuro Atoll in the Pacific Ocean will lose 80% of its land if sea level rises by 0.5m.
+            
+            • More frequent extreme weather events
+            higher land and sea surface temperatures → higher water vapour and latent heat in a warmer atmosphere → powerful driving force for extreme weather events (heatwave)
+            put vital organs at risk & heat-exhaustion when unable to cool body sufficiently
+            eg. August 2003, Europe experienced a heat wave that killed more than 70,000 people.
+            
+            • Spread of insect-borne diseases
+            Disease transmitted to humans and animals by insect
+            higher temperature & more rainfall in various parts of the world → facilitate insect (mosquitoe) breeding
+            spread of insect-borne diseases (dengue fever/malaria) → causes illnesses that may be lethal
+            eg. 2004, Nepal and Bhutan, countries which have cool temperate climates, experienced its first cases of dengue due to rise in temperatures.
+            
+            • Lengthened growing seasons
+            higher temperature → more favourable climates for certain crops → longer growing seasons
+            
+            
+         • Responses   
+            • International agreements
+            Contracts signed by two or more countries in cooperation to combat climate change
+            eg. Kyoto Protocol initiated the support of many countries to come up with measures to address climate change and put them into practice & target set for countries to reduce greenhouse gas emissions by at least 5% below 1990 levels.
+               + increased participation of countries to reduce greenhouse gas emissions → reduced enhanced greenhouse effect → reduced global warming
+               eg. targets met or exceeded by many countries, including Finland, Greece and Ireland
+               - eg. persisting high greenhouse gas emissions from countries that did not sign the agreement, including India, USA, China         
+            
+            • National responses
+            Implementation of policies by individual countries to combat climate change
+            eg. Singapore Green Plan 2012 in Singapore aimed for natural gas, which is a cleaner form of energy than coal as it does not produce smoke which contains greenhouse gases, to generate 60% of Singapore’s energy needs by 2012
+               + individual efforts to reduce in greenhouse gas emissions → reduced enhanced greenhouse effect → reduced global warming 
+               eg. notable improvements as 79% was achieved as early as 2010
+               - eg. requires complex treatment plants to process and pipelines to transport which are expensive due to high maintenance <b>BUT</b> Singapore is an affluent country and can afford the higher costs 
+
+               
+<!-- template indent
+   <li><ul>
+      <li><div><span></span>
+         </div></li>
+      <li><div><span></span>
+         </div></li>
+      </ul></li>
+-->
+
+<!--
+   <li><div><span></span>
+      </div></li>
+-->
+<!--
+<li><ul>
+   <li class="adv"><div><span></span>
+      </div></li>
+   <li class="adv"><div><span></span>
+      </div></li>
+   <li class="adv"><div><span></span>
+      </div></li>
+   <li class="disadv"><div><span></span>
+      </div></li>
+   <li class="disadv"><div><span></span>
+      </div></li>
+   <li class="'disadv"><div><span></span>
+      </div></li>
+   </ul></li>
+>>>>>>> Stashed changes
+-->
+
+
+<!--  list
+ul.chapter-terms>li>div>span+(ul>li)
+-->
+
+<!-- normal
+ul.chapter-terms>li>div>span
+ -->

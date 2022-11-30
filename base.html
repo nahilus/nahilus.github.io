@@ -1,0 +1,54 @@
+<!-- contains the items that are in every page -->
+<!-- disk, outline, path, toolbar and other templates-->
+<!-- this goes into body -->
+
+<body>
+<!-- :copy -->
+<ul><li id="copy">copied!</li></ul>
+
+
+<!-- :outline  -->
+<div>
+   <div id="outline-protrude"></div>
+   <div id="outline"></div>
+   <div id="outline-background1">
+      <div id="outline-background2"></div>
+   </div>
+</div>
+
+
+<!-- go-to disk -->
+<div id="tools-container">
+   <div id="floppy-disk"><img src="icons/floppy-disk-solid.svg" alt="no:( 2"></img></div>
+   <div id="tools">
+      <div class="tool">
+         <img src="icons/sus_chemical.svg" alt="no :( 1" class="tool-icon"></img>
+         <div id="rand-substance" class="tool-window">
+            <div class="tool-name">Chemical Synthesizer<div class="pixel-cross"><img src="icons/pixel-cross.svg" alt="NaN"></img></div></div>
+            <div class="tool-content">
+               <div id="random-substance">[chemical]</div>
+               <div id="replenish-warning"></div>
+               <button pys-onClick="getRandSubstance" id="button">Synthesize Substance</button>
+               <button pys-onClick="replenishSubstance" id="buttonn">Replenish</button>
+            </div>
+         </div>
+      </div>
+      <div class="tool">
+         <!-- PLACEHOLDER -->
+         <img src="icons/aspirin.svg" alt="no :(" class="tool-icon"></img>
+         <div id="placeholder1" class="tool-window">
+            <div class="tool-name">placeholder<div class="pixel-cross"><img src="icons/pixel-cross.svg" alt="NaN"></img></div></div>
+            <div class="tool-content"></div>
+         </div>
+      </div>
+      <div class="tool">
+         <!-- PLACEHOLDER -->
+         <img src="icons/caffeine.svg" alt="no :(" class="tool-icon"></img>
+         <div id="placeholder2" class="tool-window">
+            <div class="tool-name">placeholder<div class="pixel-cross"><img src="icons/pixel-cross.svg" alt="NaN"></img></div></div>
+            <div class="tool-content"></div>
+         </div>
+      </div>
+   </div>
+</div>
+</body>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" id="html">
+   <head>
+      <!-- styles -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+      <script>
+         $(document).ready(function(){
+            $("#base").load("base.html", function() {
+               console.log( "Load was performed." );
+               $.getScript("app.js") //load javascript after base loads
+            })
+         });
+      </script>
+      <link rel="stylesheet" type="text/css" href="styles.css">
+      <link rel="stylesheet" type="text/css" href="base/base.css">
+      <meta charset="UTF-8">
+      <meta name="author" content="unknown user">
+      <meta name="description" content="free knowledge">
+      <meta name="keywords" content="HTML">
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.8">
+      <!-- <script defer src="https://pyscript.net/alpha/pyscript.js"></script> -->
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik">
+      <script src="https://kit.fontawesome.com/4e401cb434.js" crossorigin="anonymous"></script>
+      <!-- <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> -->
+      <title>study site</title>
+   </head>
+<!-- TODO year-num renamed as section -->
+   <body>
+      <div id="base"></div>
+      <header>
+         <nav>
+            <div class="page-nav">
+               <div onclick="">study</div>
+               <div class="description" onclick="">...</div>
+            </div>
+            <div class="page-nav">
+               <div onclick="">things-n-stuff</div>
+               <div class="description" onclick="">...</div>
+            </div>
+            <div class="page-nav">
+               <div onclick="">periodised documentation on the temporal sequence of events</div>
+               <div class="page-description" onclick="">
+                  <img class="page-description-hider">...</img>
+                  <p class="pages-description-text" class="hidden"></p>
+               </div>
+            </div>
+         </nav>
+      </header>
+      <main></main>
+
+
+
+
+
+
+
+      <footer></footer>
+
+      <!-- code -->
+      <!-- <script src="app.js"></script> -->
+      <!-- <script type="text/javascript" src="base/base.js"></script> -->
+      <py-script src="scripts/chemistry_substance_randomizer.py"></py-script>
+   </body>
+</html>
+
+
+
+<!-- :subjects container
+         <div id="subjects-container">
+            <div id="subjects-border">
+               <div id="subjects-label">subjects</div>
+               <div id="subjects">
+                  <div class="subject-type" id="type-physics">Physics</div>
+                  <div class="subject-type" id="type-chemistry">Chemistry</div>
+                  <div class="subject-type" id="type-geography">Geography</div>
+                  <div class="subject-type" id="type-social">Social Studies</div>
+               </div>
+            </div>
+         </div> -->
+
+         <!-- TEMP TEST DIV - not important -->
+         <!-- <div id='test-div'>the test div</div> -->
+

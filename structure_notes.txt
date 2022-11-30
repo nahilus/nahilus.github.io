@@ -1,0 +1,64 @@
+base -
+   [x]disk -
+      mind games -
+         [x]quick math -
+            configuration: sums, division etc
+         [x]memory-math task -
+            configuration: length, operation
+         []memory game
+      [x]chemical synthesizer
+      []reaction test
+      []bubble wrap
+      []timer -
+         configuration: exactly the same as the one
+      [-]game of life
+
+
+   []toolbar -
+      []settings
+      []text brightness
+      []background brightness
+      []search for page
+      notes -
+         []reactivity series
+         []periodic table (image)
+
+   []navigation/outline -
+      []things in scope (sections in the page)
+      []related things
+
+   []website path
+
+home page -
+   []study -
+      subjects (vary)
+      settings -
+         []toggle raw text
+
+   []things-n-stuff -
+      resources
+      words
+
+   []periodised documentation on the temporal sequence of events
+      []done, in-progress, to-do
+
+   physics-playground (hard)
+
+notes:
+disk should open windows that has to be closed manually
+windows can move
+can disable title bar on windows
+timer same as that one
+search and settings will be pan and eggs icon
+search bar will appear in the middle of the screen
+settings only have slider (?)
+text and background brightness slide left and right to adjust
+study have custom format language
+2022-05-29» history date format
+study make like microsoft word layout
+base contains
+
+
+
+
+

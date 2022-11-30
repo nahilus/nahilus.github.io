@@ -1,0 +1,31 @@
+{
+   "module/topic": {
+      "chapter_name/number": {
+         "concepts": {
+            "concept1_name": {
+               "tags": ["extra", "definition"],
+               "text": "Lorem ipsum dolor sit amet",
+               "sub-concepts": {
+                  "sub-concept1_name": {
+                     "tags":[],
+                     "text": {
+                        "s": "*L*orem _i_psum dolor sit amet^2",
+                        "ul/ol": [
+                           "list_item_text",
+                           "list_item_text"
+                           ],
+                        "eg": "Marina Bay Sands",
+                        "s": "hi"
+                     }
+                  }
+               }
+            },
+            "concept2_name": {
+               "tags": ["strike", "phenomenon"]
+            }
+         }
+      }
+   }
+}
+
+
