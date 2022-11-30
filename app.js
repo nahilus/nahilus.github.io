@@ -339,9 +339,9 @@ function generateRandInt(min, max) {
 
 var operators = {
    "+": function(a,b) {return a + b},
-   "-": function(a,b) {return a + b},
-   "*": function(a,b) {return a + b},
-   "/": function(a,b) {return a + b},
+   "-": function(a,b) {return a - b},
+   "*": function(a,b) {return a * b},
+   "/": function(a,b) {return a / b},
 }
 
 $("#qm-start").click(qm_start)
