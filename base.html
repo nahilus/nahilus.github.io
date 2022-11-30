@@ -28,17 +28,31 @@
             <div class="tool-content">
                <div id="random-substance">[chemical]</div>
                <div id="replenish-warning"></div>
-               <button pys-onClick="getRandSubstance" id="button">Synthesize Substance</button>
-               <button pys-onClick="replenishSubstance" id="buttonn">Replenish</button>
+               <button pys-onClick="getRandSubstance">Synthesize Substance</button>
+               <button pys-onClick="replenishSubstance">Replenish</button>
             </div>
          </div>
       </div>
       <div class="tool">
          <!-- PLACEHOLDER -->
          <img src="icons/aspirin.svg" alt="no :(" class="tool-icon"></img>
-         <div id="placeholder1" class="tool-window">
-            <div class="tool-name">placeholder<div class="pixel-cross"><img src="icons/pixel-cross.svg" alt="NaN"></img></div></div>
-            <div class="tool-content"></div>
+         <div id="quick-maths" class="tool-window">
+            <div class="tool-name">Quick Maths<div class="pixel-cross"><img src="icons/pixel-cross.svg" alt="NaN"></img></div></div>
+            <div class="tool-content">
+               <div id="qm-equation">
+                  <span id="operand-1">_ </span>
+                  <span id="operator"> + </span>
+                  <span id="operand-2"> _</span>
+                  <span> = </span>
+                  <input placeholder="result" id="operation-result">
+               </div>
+               <div id="calc-speed">0 opm</div>
+               <div id="operation-check">no</div>
+               <input placeholder="min" id="qm-min" value="1">
+               <input placeholder="max" id="qm-max" value="10">
+               <input placeholder="*" id="qm-operator-input" value="+">
+               <button id="qm-start">▶</button>
+            </div>
          </div>
       </div>
       <div class="tool">

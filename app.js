@@ -16,6 +16,15 @@ const toolsContainer = document.getElementById('tools');
 const pixelCross = document.getElementsByClassName('pixel-cross');
 const toolWindows = document.getElementsByClassName('tool-window');
 
+const OperationResult = document.getElementById('operation-result');
+const QMMin = document.getElementById('qm-min');
+const QMMax = document.getElementById('qm-max');
+const OperatorInput = document.getElementById('qm-operator-input');
+const OperationCheck = document.getElementById('operation-check');
+const CalcSpeed = document.getElementById('calc-speed');
+const Operand1 = document.getElementById('operand-1');
+const Operand2 = document.getElementById('operand-2');
+const QMOperator = document.getElementById('operator');
 // $("#floppy-disk").ready(function(){
 //    const toolsIcon = document.getElementById('floppy-disk');
 //    const tools = document.getElementsByClassName('tool');
@@ -286,7 +295,7 @@ const toolsInfo = [
    },
    {
       toolNo: '2',
-      id: 'placeholder1',
+      id: 'quick-maths',
       loaded: false
    },
    {
@@ -319,6 +328,69 @@ for (let i=0; i<tools.length; i++) {
       };
    };
 };
+
+// :quick maths
+
+function generateRandInt(min, max) {
+   let num = Math.floor(Math.random() * (max - min + 1)) + min;
+   console.log("rand", num);
+   return num;
+}
+
+var operators = {
+   "+": function(a,b) {return a + b},
+   "-": function(a,b) {return a + b},
+   "*": function(a,b) {return a + b},
+   "/": function(a,b) {return a + b},
+}
+
+$("#qm-start").click(qm_start)
+function qm_start() {
+   let correct_operations = 0;
+   let time_elapsed = 0;
+   let min_value = parseInt(QMMin.value);
+   let max_value = parseInt(QMMax.value);
+   let operator = OperatorInput.value
+   rand_1 = generateRandInt(min_value, max_value);
+   rand_2 = generateRandInt(min_value, max_value);
+   Operand1.innerText = rand_1;
+   Operand2.innerText = rand_2;
+   QMOperator.innerText = operator;
+   correct_result = Math.round(operators[operator](rand_1, rand_2));
+   console.log(correct_result)
+   let operations_per_min = setInterval(function(){
+      time_elapsed += 2/60;
+      console.log("hi")
+      CalcSpeed.innerText = String(Math.round(correct_operations/time_elapsed *10)/10 + " opm");
+   }, 2000) //every 2 seconds update opm (operations per min)
+
+   OperationResult.addEventListener("keypress", function(event) {
+      if (event.key === "Enter") {
+         console.log("result",OperationResult.value)
+         console.log("correct",correct_result)
+         if (OperationResult.value == correct_result) {
+            OperationCheck.innerText = "yes";
+            rand_1 = generateRandInt(min_value, max_value);
+            rand_2 = generateRandInt(min_value, max_value);
+            Operand1.innerText = rand_1;
+            Operand2.innerText = rand_2;
+            correct_result = Math.round(operators[operator](rand_1, rand_2));
+            QMOperator.innerText = operator;
+            correct_operations += 1;
+            OperationResult.value = "";
+            console.log(correct_result)
+         } else {
+            OperationCheck.innerText = "no";
+            OperationResult.value = "";
+            Operand1.innerText = "_";
+            Operand2.innerText = "_";
+            return clearInterval(operations_per_min);
+         }
+      };
+   })
+};
+
+
 
 // function toolInfo(toolNo, loaded) {
 //    this.toolNo = toolNo

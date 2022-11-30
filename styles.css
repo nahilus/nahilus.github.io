@@ -423,6 +423,8 @@ b{
 }
 
 .tool-content{
+   color:#5b5d67ff;
+   font-family:'fixedsys';
    position:relative;
    box-shadow: 2px 2px 0 #383b43ff, -2px 2px 0 #383b43ff, -2px -2px 0 #383b43ff, 2px -2px 0 #383b43ff;
    border-bottom:2px #43464fff solid;
@@ -433,13 +435,12 @@ b{
    margin:2.5px 0.7px 0.7px 0.5px;
    background-color:#2c2f3acb;
    perspective:58px;
+   font-size:16px;
 }
 
 .tool-content button{
    cursor:pointer;
-   position:relative;
    clear:left;
-   bottom:0px;
    font-size:16px;
    font-family:'fixedsys';
    border:1.6px solid;
@@ -460,6 +461,21 @@ b{
    border-color: #43464fff #26282eff #26282eff #43464fff;
 }
 
+.tool-content input{
+   margin:8px;
+   background-color: transparent;
+   color:#5b5d67ff;
+   border: 1.6px solid;
+   font-family:'fixedsys';
+   width:50px;
+   text-align:center;
+   height:18px;
+}
+
+.tool-content input::placeholder{
+   opacity:40%;
+}
+
 .tool:first-child{
    transition-property:opacity;
    transition-property:visibilty;
@@ -476,6 +492,11 @@ b{
    transition: 0.2s 420ms ease;
 }
 
+.tool-window{
+   display:none;
+}
+
+/* :tool content */
 #rand-substance .tool-content{
    display:grid;
    height:100px;
@@ -486,10 +507,6 @@ b{
    grid-row: 2 / 3;
 }
 
-.tool-window{
-   display:none;
-}
-/* :tool content */
 #random-substance{
    grid-area: 1 / 1 / 2 / 3;
    margin:0 auto;
@@ -497,7 +514,6 @@ b{
    position:relative;
    width:max-content;
    height:max-content;
-   font-family:'fixedsys';
    color:#5b5d67ff;
 }
 
@@ -508,9 +524,50 @@ b{
    width:max-content;
    height:max-content;
    position:relative;
-   font-family:'fixedsys';
    color:#5b5d67ff;
 }
+
+#quick-maths .tool-content{
+   height:max-content;
+   width:max-content;
+   display:grid;
+   grid-template-rows: auto;
+}
+
+#qm-equation{
+   width:max-content;
+   height:max-content;
+   grid-area: 1 / 1 / 2 / 5;
+   margin:5px auto;
+}
+
+#operation-result{
+   border:none;
+   border-bottom:1px solid;
+   margin:0;
+}
+
+#operation-check{
+   grid-area: 2 / 3 / 3 / 5;
+   margin:5px auto;
+}
+#calc-speed{
+   grid-area: 2 / 1 / 3 / 3;
+   margin:5px auto;
+}
+
+#qm-min, #qm-max, #qm-operator-input {
+   width:30px;
+   grid-row: 3 / 4;
+   margin:auto 8px;
+}
+
+#qm-start{
+   grid-row: 3 / 4;
+   font-family: "jetbrains mono";
+   padding: 0 5px;
+}
+
 /* go-to year/subject type */
 .year{
    position:relative;
